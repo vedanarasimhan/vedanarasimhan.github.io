@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+theme                    : academic
 title                    : "Veda Narasimhan"
 title_separator          : "-"
 name                     : &name "Veda Narasimhan"
@@ -49,9 +50,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   
-# Theme of website
-theme: academic
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
