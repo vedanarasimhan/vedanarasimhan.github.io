@@ -9,8 +9,6 @@ theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-theme                    : academic
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Veda Narasimhan"
