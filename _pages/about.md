@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 I am an applied microeconomist working on topics related to economic development, growth, and political economy. 
-I will be joining NYU-Abu Dhabi as an Assistant Professor in Fall 2022.
+I am currently an Assistant Professor at NYU-Abu Dhabi.
 
 **Research interests:** Political Economy, Economic Development, Applied Micro
 
