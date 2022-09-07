@@ -14,4 +14,4 @@ I will be joining NYU-Abu Dhabi as an Assistant Professor in Fall 2022.
 
 **Research interests:** Political Economy, Economic Development, Applied Micro
 
-Email: [veda.narasimhan@nu.edu](mailto:veda.narasimhan@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
+Email: [veda.narasimhan@nyu.edu](mailto:veda.narasimhan@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
