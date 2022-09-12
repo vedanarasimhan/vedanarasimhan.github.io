@@ -2,7 +2,7 @@
 title: "Polity size, decentralization intensity, and public goods provision: evidence from India"
 collection: publications
 permalink: /publication/politysizedecentralization
-excerpt: 'Developing countries have increasingly moved towards political decentralization and
+excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com). Developing countries have increasingly moved towards political decentralization and
 devolution of power to elected local governments. An important aspect of this process
 is the division of the population into distinct local government units. This paper
 examines the consequences of these divisions using data from over 100,000 villages in
@@ -21,7 +21,6 @@ decentralization in many contexts.'
 paperurl: 'https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-With [Jeffrey Weaver](https://www.jeff-weaver.com)
 
 Developing countries have increasingly moved towards political decentralization and
 devolution of power to elected local governments. An important aspect of this process
@@ -37,6 +36,8 @@ and improved selection of candidates in smaller jurisdictions, but find no evide
 of other theorized mechanisms such as elite capture. These results are informative
 as to the optimal degree of decentralization and indicate scope for more significant
 decentralization in many contexts.
+
+With [Jeffrey Weaver](https://www.jeff-weaver.com)
 
 [Download paper here](https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1)
 
