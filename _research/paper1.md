@@ -1,7 +1,7 @@
 ---
 title: "Polity size, decentralization intensity, and public goods provision: evidence from India"
 collection: research
-permalink: /research/up_decentralization
+permalink: /research/paper1
 excerpt: 'Developing countries have increasingly moved towards political decentralization and
 devolution of power to elected local governments. An important aspect of this process
 is the division of the population into distinct local government units. This paper
