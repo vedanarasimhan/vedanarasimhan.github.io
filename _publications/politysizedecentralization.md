@@ -16,7 +16,7 @@ and improved selection of candidates in smaller jurisdictions, but find no evide
 of other theorized mechanisms such as elite capture. These results are informative
 as to the optimal degree of decentralization and indicate scope for more significant
 decentralization in many contexts.'
-#date: 2022-09-01
+date: 2022-09-01
 #venue: 'Journal 1'
 paperurl: 'https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
