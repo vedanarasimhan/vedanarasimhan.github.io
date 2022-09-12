@@ -1,7 +1,7 @@
 ---
 title: "Polity size, decentralization intensity, and public goods provision: evidence from India"
 collection: publications
-permalink: /publication/politysizedecentralization
+permalink: /research/politysizedecentralization
 excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com). 
 
 Developing countries have increasingly moved towards political decentralization and
