@@ -15,9 +15,9 @@ title                    : "Veda Narasimhan"
 title_separator          : "-"
 name                     : &name "Veda Narasimhan"
 description              : &description "Assistant Professor at NYU Abu Dhabi"
-url                      : https://v-narasimhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vedanarasimhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "v-narasimhan.github.io"
+repository               : "vedanarasimhan.github.io"
 teaser                   : "IMG_0361.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "v-narasimhan"
+  github           : # "vedanarasimhan"
   google_plus      :
   keybase          :
   instagram        :
