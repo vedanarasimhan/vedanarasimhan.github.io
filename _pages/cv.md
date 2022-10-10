@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, University of Zurich, 2022
-* M.Sc. in Economics, London School of Economics and Political Science, 2014
+* M.Sc. in Economics, London School of Economics and Political Science, 2014 
 * B.A. (Hons) in Economics with a Minor in Political Science, McGill University, 2013
 
 
