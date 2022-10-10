@@ -1,6 +1,6 @@
 ---
 title: "Polity size, decentralization intensity, and public goods provision: evidence from India"
-collection: publications
+collection: research
 permalink: /research/politysizedecentralization
 excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com).  <br />
    <br />
