@@ -1,5 +1,5 @@
 ---
-title: "Rural Development & Aggregate Growth: Evidence from India ∗"
+title: "Rural Development & Aggregate Growth: Evidence from India"
 collection: research
 permalink: /research/econgrowthandinstitutions
 excerpt: 'Traditional models of economic development focus on moving people from rural areas to urban areas.
