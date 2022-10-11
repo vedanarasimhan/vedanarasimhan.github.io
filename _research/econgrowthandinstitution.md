@@ -42,6 +42,3 @@ that rural-urban migration is higher for districts with a higher share of indepe
 provide suggestive evidence that improvements at the local-level help to drive down migration frictions
 associated with rural-urban migration which drives this finding. Finally, I show that the changes at the
 local-level have a positive impact on district-level GDP.
-
-
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
