@@ -43,4 +43,3 @@ With [Jeffrey Weaver](https://www.jeff-weaver.com)
 
 [Download paper here](https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
