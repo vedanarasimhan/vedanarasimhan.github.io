@@ -41,7 +41,7 @@ decentralization in many contexts.
 
 With [Jeffrey Weaver](https://www.jeff-weaver.com)
 
-[Download paper here]([https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0))
+[Download paper here](https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0)
 
 [Online Appendix](https://www.dropbox.com/s/kkppgs8vm80wqc0/online_appendix.pdf?dl=0)
 
