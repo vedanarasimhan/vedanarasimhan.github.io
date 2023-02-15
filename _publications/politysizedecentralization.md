@@ -43,4 +43,5 @@ With [Jeffrey Weaver](https://www.jeff-weaver.com)
 
 [Download paper here](https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1)
 
+[Online Appendix](https://www.dropbox.com/s/uvy7bbp0afcp7je/narasimhan_weaver_appendix.pdf?dl=0)
 
