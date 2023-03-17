@@ -2,7 +2,7 @@
 title: "Polity size and local government performance: Evidence from India"
 collection: research
 permalink: /research/politysize
-excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com).  <br />
+excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at American Economic Review. <br />
    <br />
 Developing countries have increasingly decentralized power to local governments. This
 paper studies a central element of decentralization – polity size – using populationbased
