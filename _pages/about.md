@@ -12,4 +12,4 @@ Welcome! I am currently an Assistant Professor at NYU-Abu Dhabi. I am an applied
 
 **Research interests:** Political Economy, Economic Development, Applied Micro 
 
-Email: [veda.narasimhan@nyu.edu](mailto:veda.narasimhan@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
+Email: [veda.narasimhan [at] nyu.edu](mailto:veda.narasimhan@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
