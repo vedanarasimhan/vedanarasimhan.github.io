@@ -5,7 +5,7 @@ permalink: /research/politysize
 excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at American Economic Review. <br />
    <br />
 Developing countries have increasingly decentralized power to local governments. This
-paper studies a central element of decentralization – polity size – using populationbased
+paper studies a central element of decentralization – polity size – using population-based
 discontinuities that determine local government boundaries for over 100,000 Indian
 villages. Over the short and long-run, individuals allocated into local governments
 with smaller populations have better access to public goods. However, this relationship
@@ -20,7 +20,7 @@ paperurl: 'https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.p
 ---
 
 Developing countries have increasingly decentralized power to local governments. This
-paper studies a central element of decentralization – polity size – using populationbased
+paper studies a central element of decentralization – polity size – using population-based
 discontinuities that determine local government boundaries for over 100,000 Indian
 villages. Over the short and long-run, individuals allocated into local governments
 with smaller populations have better access to public goods. However, this relationship
