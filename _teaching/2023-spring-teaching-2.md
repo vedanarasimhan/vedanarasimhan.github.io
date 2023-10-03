@@ -1,4 +1,3 @@
-
 ---
 title: "Empirical Economics"
 collection: teaching
@@ -20,3 +19,4 @@ Heading 2
 Heading 3
 ======
 -->
+
