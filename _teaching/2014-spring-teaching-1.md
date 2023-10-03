@@ -8,6 +8,8 @@ permalink: /teaching/2023-spring-teaching-1
 #date: 2014-01-01
 location: "NYU Abu Dhabi"
 ---
+
+
 <!---
 ---
 title: "Empirical Economics"
