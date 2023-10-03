@@ -9,7 +9,7 @@ excerpt:
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-'Traditional models of economic development focus on moving people from rural areas to urban areas.
+Traditional models of economic development focus on moving people from rural areas to urban areas.
 In lower income countries however, the majority of individuals continue to live in rural areas. This
 has generated concern that development policy focused mainly on rural areas may decrease migration
 and hence negatively impact economic development by keeping people in villages. This paper considers
@@ -25,4 +25,4 @@ population growth seems to be driven predominantly by rural-rural migration, but
 that rural-urban migration is higher for districts with a higher share of independent village councils. I
 provide suggestive evidence that improvements at the local-level help to drive down migration frictions
 associated with rural-urban migration which drives this finding. Finally, I show that the changes at the
-local-level have a positive impact on district-level GDP.'
+local-level have a positive impact on district-level GDP.
