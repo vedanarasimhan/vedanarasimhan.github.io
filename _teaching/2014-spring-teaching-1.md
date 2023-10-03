@@ -1,14 +1,27 @@
-<!---
+
 ---
-title: "Teaching experience 1"
+title: "Data Analysis for Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-spring-teaching-1
+#venue: "University 1, Department"
+#date: 2014-01-01
+location: "NYU Abu Dhabi"
 ---
 
+---
+title: "Empirical Economics"
+collection: teaching
+type: "Masters course"
+permalink: /teaching/2023-spring-teaching-2
+#venue: "University 1, Department"
+#date: 2014-01-01
+location: "NYU Abu Dhabi"
+---
+
+
+
+<!---
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
