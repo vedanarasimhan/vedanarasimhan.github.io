@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "NYU Abu Dhabi"
-date: Spring 2023
+#date: Spring 2023
 location: "Abu Dhabi, UAE"
 ---
 
