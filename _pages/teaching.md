@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Data Analysis - Spring 2023** <br>
-
-
-
-**Empirical Economics - Spring 2023**
-
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
