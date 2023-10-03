@@ -8,7 +8,7 @@ permalink: /teaching/2023-spring-teaching-1
 #date: 2014-01-01
 location: "NYU Abu Dhabi"
 ---
-
+<!---
 ---
 title: "Empirical Economics"
 collection: teaching
@@ -21,7 +21,7 @@ location: "NYU Abu Dhabi"
 
 
 
-<!---
+
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
