@@ -2,7 +2,7 @@
 title: "Rural Development & Aggregate Growth: Evidence from India" 
 collection: research
 permalink: /research/econgrowthandinstitutions
-excerpt: *(new draft coming soon)*
+excerpt: '*(new draft coming soon)*'
 #date: 2022-09-01
 #venue: 'Journal 1'
 #paperurl: 'https://www.dropbox.com/s/uz0c1g464rx2fw8/UP_decentralization.pdf?dl=1'
