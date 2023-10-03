@@ -8,13 +8,13 @@ date: 2023-01-01
 location: "Abu Dhabi, UAE"
 ---
 
-.
+Full syllabus here
 
-Heading 1
+#Part 1: Probability and Statistics
 ======
 
-Heading 2
+#Part 2: Regression Analysis
 ======
 
-Heading 3
+#Part 3
 ======
