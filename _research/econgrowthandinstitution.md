@@ -2,7 +2,7 @@
 title: "Rural Development & Aggregate Growth: Evidence from India"
 collection: research
 permalink: /research/econgrowthandinstitutions
-excerpt: 'Traditional models of economic development focus on moving people from rural areas to urban areas.
+#excerpt: 'Traditional models of economic development focus on moving people from rural areas to urban areas.
 In lower income countries however, the majority of individuals continue to live in rural areas. This
 has generated concern that development policy focused mainly on rural areas may decrease migration
 and hence negatively impact economic development by keeping people in villages. This paper considers
