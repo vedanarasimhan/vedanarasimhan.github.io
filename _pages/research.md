@@ -18,6 +18,7 @@ author_profile: true
 ## Working Papers
 
 __Polity size and local government performance: Evidence from India__ with [Jeffrey Weaver](https://www.jeff-weaver.com)
+
 (*Revise & Resubmit* at American Economic Review)
 
 Developing countries have increasingly decentralized power to local governments. This
