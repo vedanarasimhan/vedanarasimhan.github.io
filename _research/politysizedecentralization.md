@@ -27,7 +27,7 @@ with smaller populations have better access to public goods. However, this relat
 is non-linear, with benefits only observed below certain population thresholds. We
 provide evidence that these results are explained by greater civic engagement and improved
 leader selection in those jurisdictions. We find no evidence for other theorized
-mechanisms such as elite capture.
+mechanisms such as elite capture. 
 
 With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at American Economic Review. 
 
