@@ -1,5 +1,5 @@
 ---
-title: "Rural Development & Aggregate Growth: Evidence from India" 
+title: "Rural Development, Migration & Aggregate Growth: Evidence from India" 
 subtitle: "New draft coming soon"
 collection: research
 permalink: /publications/econgrowthandinstitutions
