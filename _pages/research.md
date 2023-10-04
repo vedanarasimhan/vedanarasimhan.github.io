@@ -17,10 +17,9 @@ author_profile: true
 
 ## Working Papers
 
-__Polity size and local government performance: Evidence from India__ with [Jeffrey Weaver](https://www.jeff-weaver.com)
+__[Polity size and local government performance: Evidence from India]__(https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0) with [Jeffrey Weaver](https://www.jeff-weaver.com)
 
-
-(*Revise & Resubmit* at the American Economic Review)
+(Revise & Resubmit at the __American Economic Review__)
 
 Developing countries have increasingly decentralized power to local governments. This
 paper studies a central element of decentralization – polity size – using population-based
@@ -34,7 +33,7 @@ mechanisms such as elite capture.
 
 
 
-[Download paper here](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0)
+
 
 [Online Appendix](https://www.dropbox.com/s/kkppgs8vm80wqc0/online_appendix.pdf?dl=0)
 
