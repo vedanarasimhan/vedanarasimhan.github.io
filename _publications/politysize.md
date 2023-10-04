@@ -1,7 +1,7 @@
 ---
 title: "Polity size and local government performance: Evidence from India"
 collection: research
-permalink: /research/politysize
+permalink: /pubilcations/politysize
 excerpt: 'With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at American Economic Review. <br />
    <br />
 Developing countries have increasingly decentralized power to local governments. This
