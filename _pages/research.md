@@ -19,7 +19,9 @@ author_profile: true
 
 ### Polity size and local government performance: Evidence from India 
 
-#### With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at American Economic Review 
+#### With [Jeffrey Weaver](https://www.jeff-weaver.com), 
+
+#### *Revise & Resubmit* at American Economic Review 
 
 Developing countries have increasingly decentralized power to local governments. This
 paper studies a central element of decentralization – polity size – using population-based
@@ -39,9 +41,9 @@ With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at Ameri
 
 
 
-## Rural Development, Migration & Aggregate Growth: Evidence from India
+### Rural Development, Migration & Aggregate Growth: Evidence from India
 
-### (New draft coming soon)
+#### (New draft coming soon)
 
 This paper considers a potential channel of rural development that may help to generate growth and encourage rural-urban migration. I use a 1992 reform in India that decentralized power to local village councils, I look at the role that political institutions play in influencing rural economic development, and the impact that this has on aggregate growth. I utilize a regression discontinuity design (RDD) based on population thresholds
 for the state of Uttar Pradesh that determined eligibility for independent village councils versus shared councils, and aggregate it to the district-level to study aggregate economic impacts. I find that villages
