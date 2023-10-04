@@ -17,8 +17,8 @@ author_profile: true
 
 ## Working Papers
 
-### Polity size and local government performance: Evidence from India  
-with [Jeffrey Weaver](https://www.jeff-weaver.com) (*Revise & Resubmit* at American Economic Review)
+__Polity size and local government performance: Evidence from India__ with [Jeffrey Weaver](https://www.jeff-weaver.com)
+(*Revise & Resubmit* at American Economic Review)
 
 Developing countries have increasingly decentralized power to local governments. This
 paper studies a central element of decentralization – polity size – using population-based
@@ -38,6 +38,6 @@ mechanisms such as elite capture.
 
 ## Work in Progress
 
-### Rural Development, Migration & Aggregate Growth: Evidence from India
+__Rural Development, Migration & Aggregate Growth: Evidence from India__
 
-#### (New draft coming soon)
+(New draft coming soon)
