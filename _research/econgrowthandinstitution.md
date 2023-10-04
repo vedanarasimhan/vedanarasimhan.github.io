@@ -15,4 +15,4 @@ for the state of Uttar Pradesh that determined eligibility for independent villa
 with an independent political unit have marginally differential economic activity, a greater provision of infrastructure-related public goods, and higher population growth. At the district-level I find that this
 population growth seems to be driven predominantly by rural-rural migration, but a surprising result is that rural-urban migration is higher for districts with a higher share of independent village councils. I
 provide suggestive evidence that improvements at the local-level help to drive down migration frictions associated with rural-urban migration which drives this finding. Finally, I show that the changes at the
-local-level have a positive impact on district-level GDP.
+local-level have a positive impact on district-level GDP. 
