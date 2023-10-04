@@ -17,7 +17,7 @@ author_profile: true
 
 ## Working Papers
 
-### Polity size and local government performance: Evidence from India ## *Revise & Resubmit* at American Economic Review 
+### Polity size and local government performance: Evidence from India  (*Revise & Resubmit* at American Economic Review)
 with [Jeffrey Weaver](https://www.jeff-weaver.com), 
 
 Developing countries have increasingly decentralized power to local governments. This
