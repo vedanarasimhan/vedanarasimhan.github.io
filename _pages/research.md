@@ -17,7 +17,7 @@ author_profile: true
 
 ## Work in Progress
 
-### Polity size and local government performance: Evidence from India <font size="3"> with [Jeffrey Weaver](https://www.jeff-weaver.com), 
+### Polity size and local government performance: Evidence from India <font size="3"> with Jeffrey Weaver(https://www.jeff-weaver.com), 
 
 #### *Revise & Resubmit* at American Economic Review 
 
