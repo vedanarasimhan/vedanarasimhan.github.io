@@ -17,9 +17,10 @@ author_profile: true
 
 # Work in Progress
 
-## Polity size and local government performance: Evidence from India (*Revise & Resubmit* at American Economic Review) 
+## Polity size and local government performance: Evidence from India 
 
-### With [Jeffrey Weaver](https://www.jeff-weaver.com), 
+### With [Jeffrey Weaver](https://www.jeff-weaver.com), *Revise & Resubmit* at American Economic Review 
+
 Developing countries have increasingly decentralized power to local governments. This
 paper studies a central element of decentralization – polity size – using population-based
 discontinuities that determine local government boundaries for over 100,000 Indian
