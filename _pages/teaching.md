@@ -12,6 +12,7 @@ author_profile: true
 {% endfor %}
 
 ## Main Instructor
+---
 
 __Empirical Economics (Masters)__
 
@@ -24,7 +25,7 @@ Core course, NYU Abu Dhabi
 *Spring 2023*
 
 ## Teaching Assistant
-
+---
 __Global Poverty & Economic Development (Masters)__
 
 Elective course, University of Zurich
