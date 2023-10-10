@@ -86,9 +86,9 @@ analytics:
 author:
   name             : ""
   avatar           : "uzhphoto.png"
-  bio              : # ""
-  location         : "Abu Dhabi, UAE"
-  employer         : NYU Abu Dhabi
+  bio              : "Assistant Professor of Economics"
+  location         : # "Abu Dhabi, UAE"
+  employer         : "NYU Abu Dhabi"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
