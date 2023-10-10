@@ -14,12 +14,12 @@ author_profile: true
 ## Main Instructor
 ---
 
-<span style='color: #6F33EE;'>Empirical Economics (Masters)</span> Elective course, NYU Abu Dhabi, *Spring 2023* 
+<span style='color: #420EB2;'>Empirical Economics (Masters)</span> Elective course, NYU Abu Dhabi, *Spring 2023* 
 
-__Data Analysis (Undergraduate)__ Core course, NYU Abu Dhabi, *Spring 2023*
+<span style='color: #420EB2;'>Data Analysis (Undergraduate)</span> Core course, NYU Abu Dhabi, *Spring 2023*
 
 ## Teaching Assistant
 ---
-__Global Poverty & Economic Development (Masters)__ Elective course, University of Zurich, *Fall 2017*, *Fall 2018* *Fall 2020*
+<span style='color: #420EB2;'>Global Poverty & Economic Development (Masters)</span> Elective course, University of Zurich, *Fall 2017*, *Fall 2018* *Fall 2020*
 
-__Advanced Microeconomics (Masters)__ Core course, University of Zurich, *Fall 2019*
+<span style='color: #420EB2;'>Advanced Microeconomics (Masters)</span> Core course, University of Zurich, *Fall 2019*
