@@ -14,12 +14,12 @@ author_profile: true
 ### Main Instructor
 ---
 
-__Empirical Economics (Masters)__
+####__Empirical Economics (Masters)__
 
 Elective course, NYU Abu Dhabi <br>
 *Spring 2023* 
 
-__Data Analysis (Undergraduate)__
+####__Data Analysis (Undergraduate)__
 
 Core course, NYU Abu Dhabi <br>
 *Spring 2023*
