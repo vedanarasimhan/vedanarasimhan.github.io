@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor at NYU-Abu Dhabi, working on applied microeconomic topics with a focus on political economy, economic development, and growth. My current research focus is on the role that political institutions and government policy play in driving local development, public good provision, and migration. My broader research agnda engages with develompent topics related to trade, labour, and urbanization.
+Welcome! I am an Assistant Professor at NYU-Abu Dhabi, working on applied microeconomic topics with a focus on political economy, economic development, and growth. My current research focus is on the role of political institutions and government policy in driving local development, public good provision, and migration. My broader research agenda deals with topics related to trade, labour, and urbanization.
 
 **Research interests:** Political Economy, Economic Development, Migration, Public Goods, Spatial Economics
 
