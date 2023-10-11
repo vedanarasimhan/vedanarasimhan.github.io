@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently an Assistant Professor at NYU-Abu Dhabi. I am an applied microeconomist working on topics related to economic development, growth, and political economy. My research focuses on how political institutions impact local development and the extent to which rural development programs impact both aggregate growth and urbanization. I have additional research projects related to migration, trade, urbanization, and local economic development, with most of my focus being on India.
+Welcome! I am an Assistant Professor at NYU-Abu Dhabi, working on applied microeconomic topics with a focus on political economy, economic development, and growth. My current research focus is on the role that political institutions and government policy play in driving local development, public good provision, and migration. My broader research agnda engages with develompent topics related to trade, labour, and urbanization.
 
-**Research interests:** Political Economy, Economic Development, Applied Micro 
+**Research interests:** Political Economy, Economic Development, Migration, Public Goods, Spatial Economics
 
 Email: [veda.narasimhan [at] nyu.edu](mailto:veda.narasimhan@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
