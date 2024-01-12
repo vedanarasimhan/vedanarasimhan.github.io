@@ -35,7 +35,9 @@ mechanisms such as elite capture.
 
 ## Work in Progress
 
-__Rural Development, Migration & Aggregate Growth: Evidence from India__ *(New draft coming soon)*
+__Rural Development, Migration & Aggregate Growth: Evidence from India__ 
+
+*(New draft coming soon)*
 
 This paper examines the effects of rural development policies on economic growth and rural-urban migration in developing countries, using a 1992 reform in India. Despite traditional economic models emphasizing urban migration, rural populations remain high in low-income countries. Using a regression discontinuity design for Uttar Pradesh, I analyze the impact of independent versus shared village councils on economic activity, infrastructure, and population growth. I find that villages with independeny councils witness improved economic activity, enhanced infrastructure, and heightened population growth. While rural-rural migration primarily drives this population surge, districts with more independent councils surprisingly show increased rural-urban migration. This suggests that local-level enhancements reduce migration barriers, thus boosting rural-urban shifts, and ultimately benefiting district-level GDP.
 
