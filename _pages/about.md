@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Veda Narasimhan"
-excerpt: "Veda Narasimhan"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,3 +12,5 @@ Welcome! I am an Assistant Professor at NYU-Abu Dhabi, working on applied microe
 **Research interests:** Political Economy, Economic Development, Migration, Public Goods, Spatial Economics
 
 Email: [veda.narasimhan [at] nyu.edu](mailto:veda.narasimhan@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
+
+<!--- excerpt: "Veda Narasimhan" --->
