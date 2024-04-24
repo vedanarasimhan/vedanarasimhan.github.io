@@ -21,14 +21,13 @@ author_profile: true
 
 (*Conditional Accept* at the American Economic Review)
 
-Developing countries have increasingly decentralized power to local governments. This
-paper studies a central element of decentralization – polity size – using population-based
-discontinuities that determine local government boundaries for over 100,000 Indian
-villages. Over the short and long-run, individuals allocated into local governments
-with smaller populations have better access to public goods. However, this relationship
-is non-linear, with benefits only observed below certain population thresholds. We
-provide evidence that these results are explained by greater civic engagement and improved
-leader selection in those jurisdictions. We find no evidence for other theorized
+Developing countries have increasingly decentralized power to local governments.
+This paper studies the implications of a central element of decentralization – polity size
+– using population-based discontinuities that determine local government boundaries
+for over 100,000 Indian villages. Over the short and long-run, individuals allocated
+into local governments with smaller populations have better access to public goods.
+We provide suggestive evidence that these results are related to heightened civic en-
+gagement and stronger political incentives, without any observable evidence of other
 mechanisms such as elite capture. 
 
 [Online Appendix](https://www.dropbox.com/s/kkppgs8vm80wqc0/online_appendix.pdf?dl=0)
