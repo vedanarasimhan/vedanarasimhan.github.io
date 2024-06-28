@@ -17,9 +17,7 @@ author_profile: true
 
 ## Working Papers
 
-### [Polity size and local government performance: Evidence from India](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0) <span style="font-size:0.8em;">with [Jeffrey Weaver](https://www.jeff-weaver.com)</span>
-
-(Conditionally Accepted, *American Economic Review*)
+### [Polity size and local government performance: Evidence from India](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0) <span style="font-size:0.8em;">with [Jeffrey Weaver](https://www.jeff-weaver.com) (Conditionally Accepted, __American Economic Review__) </span>
 
 Developing countries have increasingly decentralized power to local governments.
 This paper studies the implications of a central element of decentralization – polity size
@@ -45,7 +43,7 @@ This paper examines the effects of rural development policies on economic growth
 We generalize the regression discontinuity design (RDD) to identify the effect of a binary treatment on aggregated outcomes. The treatment is at the unit level, and units are partitioned into groups. We assume a partial interference structure, where arbitrary interference among units within a group is allowed, but not interference across groups. In this environment, we show that the standard RDD assumption of imperfect control at the cutoff is sufficient for the identification of the effect of the unit- level treatment on the group-level aggregated outcomes. In addition, we derive estimators to estimate the non-linear effect of the number of treated units on the group-level outcomes. We demonstrate our methodology empirically to study the effect of a more uniform partisan composition across US regions on spatial tax competition.
 
 
-## Checkpoints and Local Economic Development <span style="font-size:0.8em;">with [Barthélémy Bonadio](https://sites.google.com/view/bbonadio/home)</span>
+### Checkpoints and Local Economic Development <span style="font-size:0.8em;">with [Barthélémy Bonadio](https://sites.google.com/view/bbonadio/home)</span>
 
 We examine the impact of a 2017 reform in India that eliminated interstate checkpoints and digitized the process of transporting goods across state borders. The reform generated a significant reduction in inter-state trade barriers and administrative burdens, resulting in a decline in the overall concentration of economic activity near state borders. More specifically, we show that this exogenous shock to location-based forces, generated an overall decline in local economic patterns, and we provide evidence on what characteristics enabled a market to sustain itself despite the removal of these traditional forces of attraction. This quasi-experimental approach provides insights into the dynamics of economic activity in response to policy changes affecting trade and transport.
 
