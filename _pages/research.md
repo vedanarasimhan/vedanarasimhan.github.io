@@ -26,8 +26,7 @@ This paper studies the implications of a central element of decentralization –
 – using population-based discontinuities that determine local government boundaries
 for over 100,000 Indian villages. Over the short and long-run, individuals allocated
 into local governments with smaller populations have better access to public goods.
-We provide suggestive evidence that these results are related to heightened civic en-
-gagement and stronger political incentives, without any observable evidence of other
+We provide suggestive evidence that these results are related to heightened civic engagement and stronger political incentives, without any observable evidence of other
 mechanisms such as elite capture. 
 
 [Online Appendix](https://www.dropbox.com/s/kkppgs8vm80wqc0/online_appendix.pdf?dl=0)
