@@ -17,7 +17,7 @@ author_profile: true
 
 ## Working Papers
 
-### [Polity size and local government performance: Evidence from India](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0) with [Jeffrey Weaver](https://www.jeff-weaver.com)
+### [Polity size and local government performance: Evidence from India](https://www.dropbox.com/s/re5mn4tv5jgq1t0/UP_decentralization_small.pdf?dl=0) <span style="font-size:0.5em;">with [Jeffrey Weaver](https://www.jeff-weaver.com)</span>
 
 (Conditionally Accepted, *American Economic Review*)
 
