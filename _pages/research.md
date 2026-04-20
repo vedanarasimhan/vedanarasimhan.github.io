@@ -35,7 +35,7 @@ We provide suggestive evidence that these results are related to heightened civi
 
 Political inclusion is widely believed to improve governance, which has motivated the creation of elected representatives for highly localized constituencies. This paper studies 1.2 million “hyperlocal” representatives across 150,000 local governments in rural India. Exploiting discontinuities that determine the number and identity of these representatives, we assess how expanded representation affects governance outcomes. We find precisely estimated null effects on core functions, including public project management, intermediation in access to welfare programs, oversight of public finances, and the equity of benefit allocation. These findings highlight the limits of expanding political representation if representative capacity is weak.
 
-### Checkpoints and Local Economic Development <span style="font-size:0.8em;">with [Barthélémy Bonadio](https://sites.google.com/view/bbonadio/home)</span>
+### The Road Not Taken (Anymore): Checkposts and Local Economic Development <span style="font-size:0.8em;">with [Barthélémy Bonadio](https://sites.google.com/view/bbonadio/home)</span>
 
 [Slides](https://www.dropbox.com/scl/fi/9mucxx5fscmlrxhdat572/slides_Checkpoints.pdf?rlkey=75fus3c8gholozh6glvax6qmc&st=h8nkk116&dl=0)
 *(New draft coming soon)*
