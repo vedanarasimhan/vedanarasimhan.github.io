@@ -29,7 +29,7 @@ We provide suggestive evidence that these results are related to heightened civi
 
 ## Working Papers
 
-### [The Limits of Political Representation: evidence from India](https://www.dropbox.com/scl/fi/3iltdcphpx33yyw98t93g/Ward-members_260208.pdf?rlkey=4zst55eleq093nwg9sontkhyx&st=0qyhey9a&dl=0) <span style="font-size:0.8em;">with [Jeff Weaver](https://www.jeff-weaver.com)</span>
+### [The Limits of Political Representation: Evidence from India](https://www.dropbox.com/scl/fi/3iltdcphpx33yyw98t93g/Ward-members_260208.pdf?rlkey=4zst55eleq093nwg9sontkhyx&st=0qyhey9a&dl=0) <span style="font-size:0.8em;">with [Jeff Weaver](https://www.jeff-weaver.com)</span>
 
 *Conditionally Accepted* at  __American Economic Review: Insights__
 
